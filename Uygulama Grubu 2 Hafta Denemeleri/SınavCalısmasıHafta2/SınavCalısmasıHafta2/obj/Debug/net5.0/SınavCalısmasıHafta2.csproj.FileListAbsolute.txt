@@ -1,0 +1,16 @@
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\bin\Debug\net5.0\SınavCalısmasıHafta2.exe
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\bin\Debug\net5.0\SınavCalısmasıHafta2.deps.json
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\bin\Debug\net5.0\SınavCalısmasıHafta2.runtimeconfig.json
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\bin\Debug\net5.0\SınavCalısmasıHafta2.runtimeconfig.dev.json
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\bin\Debug\net5.0\SınavCalısmasıHafta2.dll
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\bin\Debug\net5.0\ref\SınavCalısmasıHafta2.dll
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\bin\Debug\net5.0\SınavCalısmasıHafta2.pdb
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.AssemblyInfoInputs.cache
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.AssemblyInfo.cs
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.dll
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\ref\SınavCalısmasıHafta2.dll
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.pdb
+C:\Users\mertc\Desktop\Pratikler\Sınav Hazırlık Uygulama Grubu\Uygulama Grubu 2 Hafta Denemeleri\SınavCalısmasıHafta2\SınavCalısmasıHafta2\obj\Debug\net5.0\SınavCalısmasıHafta2.genruntimeconfig.cache
